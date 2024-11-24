@@ -1,4 +1,5 @@
-Creating the Database Table
+# Creating the Database Table..
+
 Create a table named crud inside your MySQL database using the following code.
 
 CREATE TABLE `crud` (
@@ -10,15 +11,5 @@ CREATE TABLE `crud` (
   PRIMARY KEY (`id`)
 )
 
-
-
-
-
-
-
-
-
-
-RBAC Application home page
-
-https://github.com/sunnykumar2002/Role-Based-Access-Control/issues/1#issue-2687912566
+# RBAC Home page
+![Screenshot 2024-11-24 204603](https://github.com/user-attachments/assets/01ccc3d1-5854-4621-a022-04706bec2cfb)
